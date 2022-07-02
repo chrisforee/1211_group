@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+:root{
+    font-family: 'Bayon', sans-serif;
+}
+#navBar{
+    display: flex;
+    justify-content: space-between;
+}
